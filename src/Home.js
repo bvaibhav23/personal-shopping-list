@@ -11,7 +11,7 @@ const getDatafromLS = () => {
   } else {
     return [];
   }
-};
+}; 
 
 
 const Home= () => {
