@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";//to dynamically update data
 import { useNavigate} from 'react-router-dom';//for navgation on page
-
 import "./App.css";
 // getting the values of local storage
 const getDatafromLS = () => {
